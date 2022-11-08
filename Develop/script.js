@@ -13,7 +13,8 @@ $(function () {
 
   // gets the current hour in a 24 hour format
   // puts the "time-block" classes into a variable called timeBlock
-  const currentTime = dayjs().hour();
+  // const currentTime = dayjs().hour();
+  const currentTime = 13;
   const timeBlock = $(".time-block");
   timeBlock.each(function () {
     //loops through each timeBlock
