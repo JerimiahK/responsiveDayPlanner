@@ -9,6 +9,7 @@ This application was designed and engineered to help make employees lives easier
 To use this application, please follow the link provided below. Using the application is meant to be very simple, and streamlined. The planner is responsive to time and color codes the time blocks based off past, present and future. Users can save their notes by pressing the blue save button on the right side of each time block.
 
 Link to website:
+https://jerimiahk.github.io/responsiveDayPlanner/
 
 Screenshot:
-![](images/Screen%20Shot%202022-11-07%20at%206.13.27%20PM.png)
+![Screenshot of the daily work scheduler.](images/Screen%20Shot%202022-11-07%20at%206.13.27%20PM.png)
